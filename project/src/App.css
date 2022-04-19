@@ -1,0 +1,33 @@
+
+.container {
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+}
+.search{
+  margin: 5px;
+  outline: none;
+  padding: 5px;
+  border-radius: 5px;
+  border: solid 1px grey;
+}
+
+.btnEdit {
+  margin: 5px;
+  background-color: Blue;
+  color: white;
+  border: none;
+  width: 60px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.btnDelete {
+  margin: 5px;
+  background-color: red;
+  color: white;
+  border: none;
+  width: 60px;
+  border-radius: 20px;
+  cursor: pointer;
+}
